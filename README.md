@@ -4,7 +4,7 @@ Our montessori kids need a way to plan their day, and we are a bit intense about
 
 Today, it's a pages document which does not make this easy to see on GitHub, but here it is if anyone wants to copy or make it better!
 
-[Download the Chart](chart.pages)
+[Download the Chart](https://github.com/andrewbredow/kid-chores/raw/master/chart.pages)
 
 ![preview](preview.png)
 
